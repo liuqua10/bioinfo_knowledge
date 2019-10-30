@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /_docs/_pages/about/
+    url: /about/
   - title: "Curriculums"
     url: /year-archive/
   - title: "Books to Read"
