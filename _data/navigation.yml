@@ -1,0 +1,58 @@
+main:
+  - title: "About"
+    url: /docs/quick-start-guide/
+  - title: "Curriculums "
+    url: /year-archive/
+  - title: "Books to Read"
+    url: /categories/
+
+
+docs:
+  - title: Basic Unix/Linux Commands
+    children:
+      - title: "UC Davis Bioinfo Core"
+        url: https://bioinformatics.ucdavis.edu/research-computing/documentation/basic-unix-commands/
+      - title: "UC Riverside Linux Basic Intro"
+        url: http://hpcc.ucr.edu/manuals_linux-basics_intro.html
+      - title: "List of Bash Tutorials"
+        url: https://wiki-dev.bash-hackers.org/scripting/tutoriallist
+  - title: "String/text processing"
+    children:
+      - title: "Awk"
+        url: /
+      - title: "Sed"
+        url: /
+      - title: "Vi/Vim"
+        url: /
+      - title: "RegEx"
+        url: /
+  - title: "Bioinfo Tools"
+    children:
+      - title: "Samtools"
+        url: /
+      - title: "Picard"
+        url: /
+      - title: "BWA"
+        url: /
+      - title: "BLAST"
+        url: /
+      - title: "Bedtools"
+        url: /
+      - title: "GATK"
+        url: /
+      - title: "IGV"
+        url: /
+      - title: "Galaxy"
+        url: /
+      - title: "Pindel"
+        url: /
+      - title: "FreeBayes"
+        url: /
+      - title: "VEP "
+        url: /
+      - title: "BLAT"
+        url: /
+      - title: "NovoAlign"
+        url: /
+      - title: "Bowtie2"
+        url: /
