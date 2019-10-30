@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /docs/quick-start-guide/
+    url: /about/
   - title: "Curriculums "
     url: /year-archive/
   - title: "Books to Read"
