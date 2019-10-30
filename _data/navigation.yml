@@ -11,7 +11,7 @@ docs:
   - title: Basic Unix/Linux Commands
     children:
       - title: "UC Davis Bioinfo Core"
-        url: https://bioinformatics.ucdavis.edu/research-computing/documentation/basic-unix-commands/
+        url: /docs/installation/
       - title: "UC Riverside Linux Basic Intro"
         url: http://hpcc.ucr.edu/manuals_linux-basics_intro.html
       - title: "List of Bash Tutorials"
