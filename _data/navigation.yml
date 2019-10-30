@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Curriculums "
+  - title: "Curriculums"
     url: /year-archive/
   - title: "Books to Read"
     url: /categories/
