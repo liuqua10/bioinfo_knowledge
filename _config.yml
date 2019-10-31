@@ -32,12 +32,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-####Uncomment when deploy
-# Build settings
-# theme: minimal-mistakes-jekyll
-# plugins:
-  # - jekyll-remote-theme
-  # - jekyll-include-cache
+###Uncomment when deploy
+Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 remote_theme: "mmistakes/minimal-mistakes@4.17.2" ####Uncomment when deploy
 # theme: minimal-mistakes-jekyll   ####Comment when deploy
