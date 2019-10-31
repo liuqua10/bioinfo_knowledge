@@ -33,7 +33,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 ###Uncomment when deploy
-Build settings
+# Build settings
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
