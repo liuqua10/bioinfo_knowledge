@@ -374,7 +374,7 @@ repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 **Note:** Make sure the repo is public, otherwise your readers will not be able to view the issues/comments. The [issues feature](https://guides.github.com/features/issues/) also needs to be active on your repo.
 {: .notice--warning}
 
-To enable utterances on the front end set `comments.provider` and the color theme of the widget. 
+To enable utterances on the front end set `comments.provider` and the color theme of the widget.
 
 ```yaml
 comments:
@@ -600,13 +600,13 @@ Add a Google search box to your site.
 1. Create a **New search engine** in [Google Custom Search Engine](https://cse.google.com/cse/all), give it an appropriate name and setup "Sites to search" to your liking.
 
 2. Under **Look and feel** choose the "Results only" layout and a theme (*Minimalist* is a good choice to match the default look of the Minimal Mistakes).
-   
+
    ![Google Custom Search Engine layout]({{ '/assets/images/google-custom-search-engine-layout.png' | relative_url }})
 
 3. Select "Save & Get Code" and grab your search engine ID from the line that begins with `var cx = 'YOUR_SEARCH_ENGINE_ID'`.
 
 4. Add your search engine ID to `_config.yml` like so:
-   
+
    ```yaml
    google:
      search_engine_id: YOUR_SEARCH_ENGINE_ID
@@ -794,7 +794,7 @@ author:
   name     : "Your Name"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA" 
+  location : "Somewhere, USA"
 ```
 
 Author links are all optional, include the ones you want visible under the `author.links` array.

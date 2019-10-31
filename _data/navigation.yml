@@ -10,14 +10,16 @@ main:
 docs:
   - title: Basic Unix/Linux Commands
     children:
-      - title: "UC Davis Bioinfo Core"
-        url: /docs/quick-start-guide/
-      - title: "UC Riverside Linux Basic Intro"
-        url: http://hpcc.ucr.edu/manuals_linux-basics_intro.html
+      - title: "What is Unix/Linux"
+        url: /docs/unix/
+      - title: "What is Bash/Shell"
+        url: /docs/bash-shell/
       - title: "List of Bash Tutorials"
-        url: https://wiki-dev.bash-hackers.org/scripting/tutoriallist
+        url: /docs/bash-tutorial/
   - title: "String/text processing"
     children:
+      - title: "Why String Processing"
+        url: /docs/string-processing/
       - title: "Awk"
         url: /
       - title: "Sed"
