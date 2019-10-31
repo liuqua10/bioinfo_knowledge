@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-The Bioinformatics Knowledge Base has been developed to benefit anyone who is interested in the subject but does not know where to start. The knowledge about Bioinformatics is scattered and non-systematic. There are classes online but some of them goes into too much detail about a tool that is not necessary. So we decided to create a knowledge base that is easy to follow with knowledge that get you foot in the door and you can decide how deep you want to go with the additional information we provide at . This knowledge base includes the tools and concepts we use everyday and also tricks and tip that help us to be efficient. The knowledge base will keep growing as we  
+The Bioinformatics Knowledge Base has been developed to benefit anyone who is interested in the subject but does not know where to start. The knowledge about Bioinformatics is scattered and non-systematic. There are classes online but some of them goes into too much detail about a tool that is not necessary. So we decided to create a knowledge base that is easy to follow with knowledge that get you foot in the door and you can decide how deep you want to go with the additional information we provide at end of each chapter. This knowledge base includes the tools and concepts we use everyday and also tricks and tips that help us to be efficient. The knowledge base will keep growing as we encounter more and more tools that makes our lives easier.
 
 ## Getting to know the base
 
