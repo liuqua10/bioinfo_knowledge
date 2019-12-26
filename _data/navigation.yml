@@ -31,7 +31,7 @@ docs:
   - title: "Bioinfo Tools"
     children:
       - title: "Samtools"
-        url: /
+        url: /docs/samtools
       - title: "Picard"
         url: /
       - title: "BWA"
