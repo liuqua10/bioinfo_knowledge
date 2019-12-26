@@ -25,7 +25,7 @@ docs:
       - title: "Sed"
         url: /
       - title: "Vi/Vim"
-        url: /
+        url: /docs/vim
       - title: "RegEx"
         url: /
   - title: "Bioinfo Tools"
