@@ -5,7 +5,6 @@ layout: archive
 sidebar:
   nav: "docs"
 ---
-# What is Vi/Vim?
 Vim is the editor of choice for many developers and power users. It’s a “modal” text editor based on the vi editor written by Bill Joy in the 1970s for a version of UNIX. It inherits the key bindings of vi, but also adds a great deal of functionality and extensibility that are missing from the original vi.
 
 # How to install vim?
